@@ -2,6 +2,7 @@ package ip_2026;
 
 import java.util.Scanner;
 
+// THis is for Dominica 
 public class Dominica {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
