@@ -5,6 +5,7 @@ public class Exercise {
         int left = 8;
         int right = 2;
         int under = 5;
+        int onTop = 5;
     
         int formula = (left + right) / under;
         
