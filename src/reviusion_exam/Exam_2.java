@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exam_2 {
     public static void main(String[] args) {
         //Vars
-        final double REQ_TRAB = 0.1; 
+        final double REQ_TRAB = 0.1; // THis eclare a double anbd to test file changes
         final double REQ_EM = 0.4; 
         final double REQ_EF = 0.5; 
                 
